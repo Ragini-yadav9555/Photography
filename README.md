@@ -1,0 +1,1 @@
+This Photography Static Web Page features a clean and visually engaging layout that highlights photography content through a sidebar navigation menu. Built using only HTML and CSS, it is a single-page design that offers smooth interactions and a modern feel. Here's an overview of the layout and functionality:
